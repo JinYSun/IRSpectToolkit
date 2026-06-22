@@ -251,11 +251,14 @@ python demo_quickstart.py
 | optuna | 3.0 | Bayesian hyperparameter optimization framework |
 | xgboost | 2.0 | Gradient boosting classification & regression models |
 
+## Note
+It was edited by OpenClaw, Please double check before using!!!
 ## Citation
 
 If you use IRSpecToolkit in your research work, please cite the following:
 
-> IRSpecToolkit: A Modular Python Framework for Automated Infrared Spectral Analysis Integrating Classical Chemometrics, Deep Learning, and Knowledge-Guided Optimization
+[> IRSpecToolkit: A Modular Python Framework for Automated Infrared Spectral Analysis Integrating Classical Chemometrics, Deep Learning, and Knowledge-Guided Optimization
+](https://github.com/JinYSun/IRSpectToolkit)
 
 ## License
 
